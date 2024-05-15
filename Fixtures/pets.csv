@@ -1,0 +1,4 @@
+petId,cateogoryId,categoryName,petName,photoUrls,tagsIds,tagsName,status;
+20595128,1,Dog,Kinho,,1;2,vacinado;castrago,available
+20595129,2,Cat,Feio,,1;3,vacinado;vermifugado,available
+20595139,3,Rodents,Dentuço,,1;3,vacinado;vermifugado,available
